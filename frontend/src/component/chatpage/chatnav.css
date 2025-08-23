@@ -1,0 +1,9 @@
+
+.chatpage-nav-div{
+    border: none;
+    height: 10vh;
+    background-color: lightgreen;
+   align-items: center;
+    display: flex;
+    justify-content: center;
+}
