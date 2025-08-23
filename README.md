@@ -41,7 +41,7 @@ Frontend
 
 1. *Clone* the repository:
    ```bash
-   https://github.com/markandeyshukla/Live-Chat.git
+ https://github.com/Rishav2063/Real-Time-Chat-WEB-Application.git
 
 # Install backend dependencies:
 - cd backend
